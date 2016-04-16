@@ -10,3 +10,4 @@ int main(){
       printf("O %d é par!", numero);
 
 }
+    return 0;
